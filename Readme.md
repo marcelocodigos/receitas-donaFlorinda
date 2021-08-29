@@ -29,6 +29,12 @@ Mexa bem, até formar uma bola e desgrudar da panela.
 Frite em óleo bem quente, no máximo 3 churros por vez
 
 <hr>
+<h2> 2- Refresco de Tamarindo Chaves </h2> 
+O tamarindo é a uma das frutas mencionadas na famosa cena da barraca de suco do Chaves – personagem que dá nome ao famoso seriado mexicano.
 
-
+<b> Suco de Tamarindo</b>
+100 gramas da polpa da fruta.
+2 copos de água.
+Suco de 2 limões.
+Mel a gosto.
 
