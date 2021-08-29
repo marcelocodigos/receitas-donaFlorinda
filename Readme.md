@@ -65,4 +65,18 @@ Asse em forno médio, por aproximadamente 40 minutos, ou até dourar.
 Com carinho para o Seu Madruga 
 
 <hr>
+Observações: Este arquivo foi editado separadamente por 4 branches diferentes , sendo cada um responsável por uma parte da estrutura total do projeto. 
 
+Os branches criados foram 
+
+1- master (Ramo Principal)
+
+2- seu-madruga
+
+3- dona-clotiulde
+
+4- chaves
+
+Cada Ramo ficou responsável por uma parte, e inseriu sua receita especifica no livro de receitas.
+
+O branch Master fez o gerenciamento aprovando as receitas e se estivessem tudo ok, o master fez a junção (merge) das branches criadas ao projeto master.
