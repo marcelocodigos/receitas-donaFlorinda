@@ -39,6 +39,30 @@ Suco de 2 limões.
 Mel a gosto.
 
 <hr>
+<h2> 3- BOLO DE BAUNILHA </h2>
 
+<b> INGREDIENTES </b>
 
+3 ovos grandes
+1/2 xícara de óleo
+1 colher (chá) de essência de baunilha
+2 xícaras de açúcar
+250 ml de leite
+3 xícaras de trigo
+1 colher (sobremesa) de fermento em pó
+
+<b> MODO DE PREPARO </b>
+
+Em uma batedeira, bata os ovos até ficarem bem clarinhos.
+Adicione o óleo sem parar de bater.
+Coloque o açúcar de uma só vez e continue batendo.
+Adicione a baunilha.
+Aos poucos despeje o trigo e o leite.
+Depois de bem batido, adicione o fermento e misture só por alguns segundos, pois, se bater muito depois de colocar o fermento o bolo não crescerá.
+Despeje a mistura em uma forma média, untada com margarina e trigo.
+Asse em forno médio, por aproximadamente 40 minutos, ou até dourar.
+
+Com carinho para o Seu Madruga 
+
+<hr>
 
