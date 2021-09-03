@@ -93,17 +93,17 @@ presunto e cubra com folhas de rúcula. Repita o processo e finalize com mais 1 
 
 <hr>
 
-Observações: Este arquivo foi editado separadamente por 4 branches diferentes , sendo cada um responsável por uma parte da estrutura total do projeto. 
+<b>Observações</b>: Este arquivo foi editado separadamente por 4 branches diferentes , sendo cada um responsável por uma parte da estrutura total do projeto. 
 
-Os branches criados foram 
+<ul>Os branches criados foram</ul>
 
-1- master (Ramo Principal)
+<li> Master (Ramo Principal) </li>
 
-2- seu-madruga
+<li> Seu-madruga </li>
 
-3- dona-clotiulde
+<li> Dona-clotiulde </li>
 
-4- chaves
+<li> Chaves </li>
 
 Cada Ramo ficou responsável por uma parte, e inseriu sua receita especifica no livro de receitas.
 
