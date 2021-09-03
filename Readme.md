@@ -1,10 +1,11 @@
-> <h1>Receitas Dona Frorinda</h1>
+﻿> <h1>Receitas Dona Frorinda</h1>
 >
 > 
 >
 > <ul style="list-style-type:number;">
 >     <li>Churros (Chef Seu Madruga)</li>
 >     <li>Refresco de Tamarindo (Chef Chaves)</li>
+>     <li>Sanduiche de Presunto (Chef Chaves)</li>
 >     <li>Bolo de Baunilha (Chef Dona Clotiude)</li>
 > </ul>
 
@@ -65,6 +66,33 @@ Asse em forno médio, por aproximadamente 40 minutos, ou até dourar.
 Com carinho para o Seu Madruga 
 
 <hr>
+
+
+<h2> 4 - Sanduiche de Presunto </h2>
+
+<b> INGREDIENTES </b>
+
+3 colheres (sopa) de cream cheese
+1 pote de requeijão
+1 xícara (chá) de queijo parmesão ralado
+2 fatias de Presunto Perdigão
+2 xícaras (chá) de folhas de rúcula
+1 fatias de pão de forma
+Azeite (para untar a forma)
+
+
+<b> MODO DE PREPARO </b>
+
+reparo
+1.Misture o cream cheese com o requeijão e o parmesão.
+
+2.Forre o fundo de uma forma de bolo inglês untada com azeite com 3 fatias de pão de forma, espalhe um pouco do creme de queijo, disponha 6 fatias de 
+presunto e cubra com folhas de rúcula. Repita o processo e finalize com mais 1 camada de pães.
+
+3.Leve para assar por aproximadamente 30 minutos em forno médio. Sirva quente.
+
+<hr>
+
 Observações: Este arquivo foi editado separadamente por 4 branches diferentes , sendo cada um responsável por uma parte da estrutura total do projeto. 
 
 Os branches criados foram 
